@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+# agregando archivo de firebase.js para que no se almacene en github
+src/firebase
 
 # Editor directories and files
 .vscode/*
